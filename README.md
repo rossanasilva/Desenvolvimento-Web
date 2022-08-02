@@ -111,4 +111,15 @@
 
 - Imagem
 
-![listas.png](img/listas.png)
+![listas.png](img/images_readme/listas.png)
+
+----------------------------------------------------------------------------
+
+### Primeiro Mini Projeto, usando os básicos aprendidos
+
+- Imagem
+
+![primeiro_projeto.png](img/images_readme/primeiro_projeto.png)
+
+----------------------------------------------------------------------------
+
