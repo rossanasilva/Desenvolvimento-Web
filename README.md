@@ -2,10 +2,11 @@
 
 ## Folder Structure
 
-- `CSS`: the folder to maintain css files
-- `HTML`: the folder to maintain html files
-- `PHP`: the folder to maintain php files
-- `Projects`: the folder to maintain projects
+- `css`: the folder to maintain css files
+- `html`: the folder to maintain html files
+- `javascript`: the folder to maintain js files
+- `php`: the folder to maintain php files
+- `projects`: the folder to maintain projects
 ----------------------------------------------------------------------------
 
 ## Everything about Web Development
@@ -49,8 +50,8 @@
 #### Exemplo:
 
   `<body>`
-    `Sobre a empresa <br>
-    Essa é uma empresa tal.. `
+    `Sobre a empresa <br> `
+    `Essa é uma empresa tal.. `
   `</body>`
 
 ##### Console:
@@ -123,3 +124,26 @@
 
 ----------------------------------------------------------------------------
 
+### Uso de imagens no HTML
+
+- Quando se quer utilizar imagens no html, se usa a tag `img`, colocando o caminho de onde a imagem se encontra;
+- Se caso queira utilizar a url da imagem, só colocar, porém não é muito recomendado, pois a imagem pode deixar de existir por um acaso.
+- Podendo modificar a imagem usando width (largura) e height (altura)
+
+#### Exemplos:
+
+`<img src="/img/images/yakisoba.jpg">` <br>
+`<img src="https://receitatodahora.com.br/wp-content/uploads/2021/09/yakisoba-scaled.jpg">` <br>
+`<img src="/img/images/yakisoba.jpg" width="600">`
+
+----------------------------------------------------------------------------
+
+### Links no html
+
+- Para colocar links na sua página você utiliza a tag `a` de anchor, que quer dizer âncora
+- Pode também utilizar a anchor para interligar um outro site
+
+#### Exemplos:
+
+`<a href="contato.html">Contatos</a>` -> vai para página de contatos <br>
+`<a href="https://www.youtube.com/">Clique aqui</a>` -> vai para o youtube
