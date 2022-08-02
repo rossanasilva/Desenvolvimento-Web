@@ -6,7 +6,7 @@
 - `html`: the folder to maintain html files
 - `javascript`: the folder to maintain js files
 - `php`: the folder to maintain php files
-- `projects`: the folder to maintain projects
+- `Projects`: the folder to maintain projects
 ----------------------------------------------------------------------------
 
 ## Everything about Web Development
@@ -147,3 +147,20 @@
 
 `<a href="contato.html">Contatos</a>` -> vai para página de contatos <br>
 `<a href="https://www.youtube.com/">Clique aqui</a>` -> vai para o youtube
+
+- Imagem
+
+![links.png](img/images_readme/links.png)
+
+----------------------------------------------------------------------------
+
+### Tabelas no html
+
+- Para se usar uma tabela no html, usa-se a tag `table`, que no caso é tabela
+- Dentro da `table`, pode-se colocar atributos, como `border` (borda), colocando os demais tipos de borda: 1, 2, 3... 
+- para ser feita a tabela em si, precisa-se de linhas e colunase dados
+- Para definir um a linha usa-se a tag `tr`, ou table row (linha da tabela)
+- Para definir os dados de uma tabela, usa-se a tag `td`, ou table data (dados da tabela)
+- Se quiser diferenciar os títulos dos dados, usa-se a tag `th`, ou table header (título da tabela)
+- Podendo usar o `width` para definir a largura da tabela, usando porcentagem de 100%, toma todo o espaço do navegador
+- Também podendo colocar imagem na tabela
