@@ -209,3 +209,9 @@
 ![c_especiais.png](img/images_readme/c_especiais.png)
 
 ---
+
+### Projeto Final HTML - UNES
+
+- Não se estrutura sites com tabelas!!!
+- Para alinhar items ao centro no HTML, usa-se o `align`
+- Para adicionar uma imagem no fundo, usa-se o `background`
