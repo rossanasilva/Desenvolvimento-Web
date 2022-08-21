@@ -163,4 +163,32 @@
 - Para definir os dados de uma tabela, usa-se a tag `td`, ou table data (dados da tabela)
 - Se quiser diferenciar os títulos dos dados, usa-se a tag `th`, ou table header (título da tabela)
 - Podendo usar o `width` para definir a largura da tabela, usando porcentagem de 100%, toma todo o espaço do navegador
-- Também podendo colocar imagem na tabela
+- Também podendo colocar imagem na tabela e links
+- Para mesclagem de colunas, usa-se o `colspan`, que é a extensão da coluna
+- Para mesclagem de linhas, usa-se o `rowspan`, que é a extensão da linha 
+
+#### Exemplos:
+
+`<td><img src="/img/images/yakisoba.jpg" width="600"></td>` <br>
+`<td><a href="">Clique</a></td>` <br>
+`<td colspan="2">cupom1 - R$ 10</td>` <br>
+`<td rowspan="2">Desconto</td>` <br>
+
+![colspan.png](img/images_readme/colspan.png)
+![rowspan.png](img/images_readme/rowspan.png)
+![tabelas.png](img/images_readme/tabelas.png)
+
+----------------------------------------------------------------------------
+
+### Formulários no html
+- Os formulários `form` são feitos para cadastros e login, usando `input`, para digitar
+
+#### Exemplos:
+
+![forms.png](img/images_readme/forms.png)
+![forms2.png](img/images_readme/forms2.png)
+
+----------------------------------------------------------------------------
+
+### Caracteres Especiais
+
